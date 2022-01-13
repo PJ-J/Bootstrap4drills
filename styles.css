@@ -11,5 +11,4 @@ body {
 }
 form {
   border: 3px red solid;
-  padding: $spacer !important;
 }
