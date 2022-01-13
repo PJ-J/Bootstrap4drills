@@ -1,0 +1,15 @@
+.container {
+  background-color: blue;
+  height: 500px;
+}
+body {
+  font-family: monospace;
+}
+
+.row {
+  background-color: lightgray;
+}
+form {
+  border: 3px red solid;
+  padding: $spacer !important;
+}
