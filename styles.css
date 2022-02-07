@@ -9,8 +9,8 @@ body {
 .row {
   background-color: lightgray;
 }
-form {
-  border: 3px red solid;
+/* form {
+  border: 3px red solid; */
 }
 .col-4 {
   padding: 0;
